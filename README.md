@@ -1,6 +1,5 @@
 # Redwing Flight Scheduler (Hub Ops Visualizer)
 
-![Hub Ops Visualizer Preview](public/preview.png)
 
 A high-performance React application for visualizing flight schedules, managing hub operations, and detecting conflicts in real-time. Built for efficiency and style.
 
