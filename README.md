@@ -5,6 +5,10 @@ A high-performance React application for visualizing flight schedules, managing 
 
 ## 🚀 Features
 
+-   **New! Dark Mode**: Toggle between Light and Dark themes for comfortable viewing in any environment.
+-   **Redwing Branding**: Custom Red/White/Black design system with company branding.
+-   **New! Dark Mode**: Toggle between Light and Dark themes for comfortable viewing in any environment.
+-   **Redwing Branding**: Custom Red/White/Black design system with company branding.
 -   **Interactive Timeline**: Visualize flight departures and arrivals with minute-level precision.
 -   **Conflict Detection**: Real-time detection of pad overlaps and schedule conflicts.
 -   **Smart Parsing**:
